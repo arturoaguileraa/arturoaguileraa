@@ -43,10 +43,11 @@ Email me at "arturoaguileraglez@gmail.com" or visit my [LinkedIn](https://linked
 
  **- Mathematical Paper on Stokes' Theorem (Bachelor Thesis) -**  
    Analyzed and explored the theory and application of integration in manifolds, focusing on Stokes' Theorem and its practical applications in mathematics.
-
- **- xPadel (Project) -**  
+   
+<!-- 
+  **- xPadel (Project) -**  
    A web application for managing court reservations, organizing matches, and creating competitions with leveled communities and pairing systems. This tool helps organize social sports events and enhance user engagement.
-
+-->
  **- freeCodeCamp Backend Development Bootcamp -**  
    Completed the Backend Development and APIs Bootcamp, where I earned a developer certification. This course helped me enhance my skills in backend technologies, including API design and development.
 
