@@ -10,7 +10,7 @@
 <div align="center">
   
 # 💫About Me :
-🎓 I’m currently pursuing a Master in Artificial Intelligence at the International University of La Rioja (UNIR), expected graduation in July 2025.<br>
+🎓 I’m currently pursuing a Master in Artificial Intelligence at the International University of La Rioja (UNIR).<br>
 🌱 I'm currently studying the University Expert Diploma in Reverse Engineering and Malware Intelligence at GSEC Málaga, a diploma developed by NICS Lab (UMA) and VirusTotal, in collaboration with Google, to train experts in a highly specialized cybersecurity field.<br>
 🔭 I'm also working on my Bachelor's research combining AI and cybersecurity, developing AI-driven tools for threat detection and malware analysis.<br>
 👯 I'm looking to collaborate on projects related to AI, cybersecurity, and web development.<br>
