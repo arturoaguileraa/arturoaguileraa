@@ -47,7 +47,7 @@ I'm always down for a technical deep-dive or a simple "hello."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arturoaguileraglez) 
 [![Github](https://img.shields.io/badge/Github-%23000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/arturoaguileraa) 
-[![Website](https://img.shields.io/badge/Website-%2336BCF7.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://arturoaguilera.es/en)
+[![Website](https://img.shields.io/badge/Website-%2336BCF7.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://arturoaguilera.dev/en)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arturoaguileraa&label=Visitors+Count&color=brightgreen" alt="Visitors" />
