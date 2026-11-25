@@ -5,16 +5,17 @@
 
 <p align="center">
   <a href="https://github.com/arturoaguileraa">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%234A5568&center=true&vCenter=true&lines=Software+Engineer+%40+VirusTotal;Lifelong+Learner+of+Math+%26+CS;Building+tools+for+a+safer+web">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%234A5568&center=true&vCenter=true&lines=Backend+%26+AI+Engineer;Lifelong+Learner+of+Math+%26+CS;Building+tools+for+a+safer+web">
   </a>
 </p>
 
 ---
 
 ## 🌱 A bit about me
-I'm a software engineer who enjoys solving puzzles at the intersection of **AI and Cybersecurity**. I spend my days at **VirusTotal (Google GSEC Málaga)**, and I still consider myself a student of the craft, always looking to learn something new from the community.
+I'm a software engineer who enjoys solving puzzles at the intersection of **AI and Cybersecurity**. I still consider myself a student of the craft, always looking to learn something new from the community.
 
-* **Current Focus:** Helping build **Omnia**, an AI-powered security platform for analysts. I enjoy working across the stack with Vite, FastAPI, and Pydantic.
+* **Now:** Backend & AI engineer at **FMIT Technologies** (since September 2026).
+* **Before:** Founder Engineer at **VirusTotal (Google GSEC Málaga)**, where I helped build **Omnia**, an AI-powered cybersecurity platform (Vite, FastAPI, Pydantic, RAG and MCP integrations). Earlier, fullstack work at San Juan de Dios Málaga, transcribing and structuring medical consultations with Whisper and Ollama.
 * **On the side:** Tools for working safely with AI agents: a local PII gateway, risk triage for agent skills and MCP servers, and small utilities for Claude Code.
 * **Background:** I hold a double degree in **Computer Science and Mathematics** from the University of Málaga. I love applying mathematical rigor to messy, real-world security problems.
 * **Research:** My Master's work focused on **Explainable AI (XAI)**, trying to make "black box" neural network decisions in malware detection more transparent.
